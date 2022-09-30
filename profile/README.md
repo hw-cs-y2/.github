@@ -1,4 +1,6 @@
 ### Group Repo For Heriot-Watt University Computer Science Class Representatives 
-###### [For Academic Year 2022-23]
+**[For Academic Year 2022-23]**
 
-This repo is mostly here to take advantage of Github Pages free static hosting.
+Welcome!
+
+This Github account is used to host our Landing Page [hw-cs-y2.github.io](https://hw-cs-y2.github.io).
