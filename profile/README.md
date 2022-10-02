@@ -1,4 +1,4 @@
-### Group Repo For Heriot-Watt University Computer Science Year 2 Class Representatives 
+### Github Organisation For Heriot-Watt University Computer Science Year 2 Class Representatives 
 **[For Academic Year 2022-23]**
 
 Welcome!
